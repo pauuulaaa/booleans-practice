@@ -1,0 +1,32 @@
+let isActive = true;
+let isSubscribed = false;
+console.log(isActuve);
+console.log(isSubscribed);
+
+let isEmpty = Boolean('');
+let isNotempty = Boolean('Hello World');
+console.log(Empty);
+cosole.log(isNotEmpty);
+
+let a = 5;
+let b = 5;
+let isGrater = a > b;
+let isEqual = a ==b;
+console.log(isGrater);
+console.log(isEqual);
+
+let zero = 0;
+let notZero = 42;
+console.log(Boolean(zero));
+console.log(Boolean(notzero));
+
+let isAdult = true;
+let haspermission = false;
+let canEnter = isAdult && haspermission;
+console.log(canEnter);
+
+let obj = {};
+let arr =[];
+console.log(Boolean(obj));
+console.log(Boolean(arr));
+
